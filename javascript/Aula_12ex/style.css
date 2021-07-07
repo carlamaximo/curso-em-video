@@ -23,3 +23,13 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
